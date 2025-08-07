@@ -1,13 +1,3 @@
-<head>
-<style>
-.center2 {
-  margin: auto;
-  width: 60%;
-  padding: 10px;
-}
-</style>
-</head>
-
 ## 
 <h1 align="center">Explaining How Visual, Textual and Multimodal Encoders Share Concepts</h1>
 
@@ -18,7 +8,7 @@
 <br>
 <br>
 
-[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/TODO)
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2507.18512)
 </div>
 
 <h3 align="center">Abstract</h3>
@@ -132,7 +122,7 @@ uv run show.py --run clip
 @article{cornet2025explaining,
   title={Explaining How Visual, Textual and Multimodal Encoders Share Concepts}, 
   author={Cornet, Cl{\'e}ment and  Besan\c{c}on, Romaric and Le Borgne, Herv{\'e}},
-  journal={arXiv preprint arXiv:TODO},
+  journal={arXiv preprint arXiv:2507.18512},
   year={2025}
 }
 ```
